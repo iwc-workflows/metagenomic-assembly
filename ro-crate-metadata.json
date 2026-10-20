@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-18T13:17:06.541060",
+            "datePublished": "2026-10-20T17:42:30.728606",
             "hasPart": [
                 {
                     "@id": "metagenomic-assembly.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/metagenomic-assembly",
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "@id": "#galaxy",
